@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "rows": 288000,
+  "individual_metric_checks": 4000,
+  "recomputed_summary": true,
+  "symbol_consistency": true,
+  "em_non_decreasing": true,
+  "training_test_seeds_disjoint": true,
+  "replay_comparison": [],
+  "note": "La igualdad de bytes fue comprobada en este entorno; no certifica otros sistemas."
+}

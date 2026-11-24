@@ -1,0 +1,407 @@
+[
+  {
+    "scenario": "E1_base",
+    "metric": "accuracy",
+    "method": "Viterbi",
+    "stat": "mean",
+    "percent": true,
+    "decimals": 2,
+    "formatted": "97,31"
+  },
+  {
+    "scenario": "E3_solapamiento",
+    "metric": "accuracy",
+    "method": "Viterbi",
+    "stat": "mean",
+    "percent": true,
+    "decimals": 2,
+    "formatted": "86,95"
+  },
+  {
+    "scenario": "E3_solapamiento",
+    "metric": "accuracy",
+    "method": "Viterbi_base_fijo",
+    "stat": "mean",
+    "percent": true,
+    "decimals": 2,
+    "formatted": "68,92"
+  },
+  {
+    "scenario": "E1_base",
+    "metric": "accuracy",
+    "method": "Viterbi",
+    "stat": "mean",
+    "percent": true,
+    "decimals": 2,
+    "formatted": "97,31"
+  },
+  {
+    "scenario": "E1_base",
+    "metric": "accuracy",
+    "method": "Viterbi",
+    "stat": "std",
+    "percent": true,
+    "decimals": 2,
+    "formatted": "0,51"
+  },
+  {
+    "scenario": "E1_base",
+    "metric": "accuracy",
+    "method": "Viterbi",
+    "stat": "min",
+    "percent": true,
+    "decimals": 2,
+    "formatted": "95,97"
+  },
+  {
+    "scenario": "E1_base",
+    "metric": "accuracy",
+    "method": "Viterbi",
+    "stat": "max",
+    "percent": true,
+    "decimals": 2,
+    "formatted": "98,33"
+  },
+  {
+    "scenario": "E1_base",
+    "metric": "accuracy",
+    "method": "Viterbi",
+    "stat": "ci_low",
+    "percent": true,
+    "decimals": 2,
+    "formatted": "97,17"
+  },
+  {
+    "scenario": "E1_base",
+    "metric": "accuracy",
+    "method": "Viterbi",
+    "stat": "ci_high",
+    "percent": true,
+    "decimals": 2,
+    "formatted": "97,46"
+  },
+  {
+    "scenario": "E2_persistencia",
+    "metric": "accuracy",
+    "method": "Viterbi",
+    "stat": "mean",
+    "percent": true,
+    "decimals": 2,
+    "formatted": "95,05"
+  },
+  {
+    "scenario": "E2_persistencia",
+    "metric": "accuracy",
+    "method": "Viterbi",
+    "stat": "std",
+    "percent": true,
+    "decimals": 2,
+    "formatted": "0,82"
+  },
+  {
+    "scenario": "E2_persistencia",
+    "metric": "accuracy",
+    "method": "Viterbi",
+    "stat": "min",
+    "percent": true,
+    "decimals": 2,
+    "formatted": "92,43"
+  },
+  {
+    "scenario": "E2_persistencia",
+    "metric": "accuracy",
+    "method": "Viterbi",
+    "stat": "max",
+    "percent": true,
+    "decimals": 2,
+    "formatted": "96,81"
+  },
+  {
+    "scenario": "E2_persistencia",
+    "metric": "accuracy",
+    "method": "Viterbi",
+    "stat": "ci_low",
+    "percent": true,
+    "decimals": 2,
+    "formatted": "94,82"
+  },
+  {
+    "scenario": "E2_persistencia",
+    "metric": "accuracy",
+    "method": "Viterbi",
+    "stat": "ci_high",
+    "percent": true,
+    "decimals": 2,
+    "formatted": "95,28"
+  },
+  {
+    "scenario": "E3_solapamiento",
+    "metric": "accuracy",
+    "method": "Viterbi",
+    "stat": "mean",
+    "percent": true,
+    "decimals": 2,
+    "formatted": "86,95"
+  },
+  {
+    "scenario": "E3_solapamiento",
+    "metric": "accuracy",
+    "method": "Viterbi",
+    "stat": "std",
+    "percent": true,
+    "decimals": 2,
+    "formatted": "2,35"
+  },
+  {
+    "scenario": "E3_solapamiento",
+    "metric": "accuracy",
+    "method": "Viterbi",
+    "stat": "min",
+    "percent": true,
+    "decimals": 2,
+    "formatted": "80,83"
+  },
+  {
+    "scenario": "E3_solapamiento",
+    "metric": "accuracy",
+    "method": "Viterbi",
+    "stat": "max",
+    "percent": true,
+    "decimals": 2,
+    "formatted": "92,43"
+  },
+  {
+    "scenario": "E3_solapamiento",
+    "metric": "accuracy",
+    "method": "Viterbi",
+    "stat": "ci_low",
+    "percent": true,
+    "decimals": 2,
+    "formatted": "86,28"
+  },
+  {
+    "scenario": "E3_solapamiento",
+    "metric": "accuracy",
+    "method": "Viterbi",
+    "stat": "ci_high",
+    "percent": true,
+    "decimals": 2,
+    "formatted": "87,62"
+  },
+  {
+    "scenario": "E4_inicio_critico",
+    "metric": "accuracy",
+    "method": "Viterbi",
+    "stat": "mean",
+    "percent": true,
+    "decimals": 2,
+    "formatted": "97,28"
+  },
+  {
+    "scenario": "E4_inicio_critico",
+    "metric": "accuracy",
+    "method": "Viterbi",
+    "stat": "std",
+    "percent": true,
+    "decimals": 2,
+    "formatted": "0,52"
+  },
+  {
+    "scenario": "E4_inicio_critico",
+    "metric": "accuracy",
+    "method": "Viterbi",
+    "stat": "min",
+    "percent": true,
+    "decimals": 2,
+    "formatted": "95,97"
+  },
+  {
+    "scenario": "E4_inicio_critico",
+    "metric": "accuracy",
+    "method": "Viterbi",
+    "stat": "max",
+    "percent": true,
+    "decimals": 2,
+    "formatted": "98,33"
+  },
+  {
+    "scenario": "E4_inicio_critico",
+    "metric": "accuracy",
+    "method": "Viterbi",
+    "stat": "ci_low",
+    "percent": true,
+    "decimals": 2,
+    "formatted": "97,13"
+  },
+  {
+    "scenario": "E4_inicio_critico",
+    "metric": "accuracy",
+    "method": "Viterbi",
+    "stat": "ci_high",
+    "percent": true,
+    "decimals": 2,
+    "formatted": "97,43"
+  },
+  {
+    "scenario": "E1_base",
+    "metric": "accuracy",
+    "method": "Viterbi",
+    "stat": "mean",
+    "percent": true,
+    "decimals": 2,
+    "formatted": "97,31"
+  },
+  {
+    "scenario": "E1_base",
+    "metric": "accuracy",
+    "method": "Filtrado",
+    "stat": "mean",
+    "percent": true,
+    "decimals": 2,
+    "formatted": "95,36"
+  },
+  {
+    "scenario": "E1_base",
+    "metric": "accuracy",
+    "method": "Sin_memoria",
+    "stat": "mean",
+    "percent": true,
+    "decimals": 2,
+    "formatted": "92,65"
+  },
+  {
+    "scenario": "E2_persistencia",
+    "metric": "accuracy",
+    "method": "Viterbi",
+    "stat": "mean",
+    "percent": true,
+    "decimals": 2,
+    "formatted": "95,05"
+  },
+  {
+    "scenario": "E2_persistencia",
+    "metric": "macro_f1",
+    "method": "Viterbi",
+    "stat": "mean",
+    "percent": false,
+    "decimals": 3,
+    "formatted": "0,952"
+  },
+  {
+    "scenario": "E1_base",
+    "metric": "macro_f1",
+    "method": "Viterbi",
+    "stat": "mean",
+    "percent": false,
+    "decimals": 3,
+    "formatted": "0,929"
+  },
+  {
+    "scenario": "E3_solapamiento",
+    "metric": "accuracy",
+    "method": "Viterbi",
+    "stat": "mean",
+    "percent": true,
+    "decimals": 2,
+    "formatted": "86,95"
+  },
+  {
+    "scenario": "E3_solapamiento",
+    "metric": "accuracy",
+    "method": "Viterbi_base_fijo",
+    "stat": "mean",
+    "percent": true,
+    "decimals": 2,
+    "formatted": "68,92"
+  },
+  {
+    "scenario": "E3_solapamiento",
+    "metric": "critical_recall",
+    "method": "Viterbi",
+    "stat": "mean",
+    "percent": true,
+    "decimals": 2,
+    "formatted": "49,17"
+  },
+  {
+    "scenario": "E1_base",
+    "metric": "accuracy",
+    "method": "Viterbi",
+    "stat": "mean",
+    "percent": true,
+    "decimals": 2,
+    "formatted": "97,31"
+  },
+  {
+    "scenario": "E1_base",
+    "metric": "accuracy",
+    "method": "Viterbi",
+    "stat": "ci_low",
+    "percent": true,
+    "decimals": 2,
+    "formatted": "97,17"
+  },
+  {
+    "scenario": "E1_base",
+    "metric": "accuracy",
+    "method": "Viterbi",
+    "stat": "ci_high",
+    "percent": true,
+    "decimals": 2,
+    "formatted": "97,46"
+  },
+  {
+    "scenario": "E1_base",
+    "metric": "macro_f1",
+    "method": "Viterbi",
+    "stat": "mean",
+    "percent": false,
+    "decimals": 3,
+    "formatted": "0,929"
+  },
+  {
+    "scenario": "E1_base",
+    "metric": "critical_recall",
+    "method": "Viterbi",
+    "stat": "mean",
+    "percent": true,
+    "decimals": 2,
+    "formatted": "81,82"
+  },
+  {
+    "scenario": "E1_base",
+    "metric": "critical_recall",
+    "method": "Viterbi",
+    "stat": "mean",
+    "percent": true,
+    "decimals": 2,
+    "formatted": "81,82"
+  },
+  {
+    "scenario": "E1_base",
+    "metric": "critical_fpr",
+    "method": "Viterbi",
+    "stat": "mean",
+    "percent": true,
+    "decimals": 2,
+    "formatted": "0,31"
+  },
+  {
+    "scenario": "E1_base",
+    "metric": "critical_recall",
+    "method": "Filtrado",
+    "stat": "mean",
+    "percent": true,
+    "decimals": 2,
+    "formatted": "86,68"
+  },
+  {
+    "scenario": "E1_base",
+    "metric": "critical_fpr",
+    "method": "Filtrado",
+    "stat": "mean",
+    "percent": true,
+    "decimals": 2,
+    "formatted": "1,00"
+  }
+]

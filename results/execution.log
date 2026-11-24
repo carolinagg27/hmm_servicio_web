@@ -1,0 +1,16 @@
+Simulando 4 escenarios, 50 réplicas y 1440 minutos...
+E1_base
+E2_persistencia
+E3_solapamiento
+E4_inicio_critico
+Evaluando sensibilidad de matrices y prior...
+Ajustando Baum-Welch: 8 secuencias independientes, 3 reinicios...
+Reinicio 0: LL=-3012.227, iteraciones=60
+Reinicio 1: LL=-3012.232, iteraciones=60
+Reinicio 2: LL=-3012.227, iteraciones=60
+         scenario  method   metric  n     mean      std      min      max   ci_low  ci_high
+          E1_base Viterbi accuracy 50 0.973111 0.005132 0.959722 0.983333 0.971653 0.974570
+  E2_persistencia Viterbi accuracy 50 0.950500 0.008177 0.924306 0.968056 0.948176 0.952824
+  E3_solapamiento Viterbi accuracy 50 0.869514 0.023500 0.808333 0.924306 0.862835 0.876192
+E4_inicio_critico Viterbi accuracy 50 0.972806 0.005182 0.959722 0.983333 0.971333 0.974278
+Resultados guardados en /workspace/scratch/74bbb1891db3/hmm_servicio_web

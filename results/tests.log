@@ -1,0 +1,9 @@
+test_em_monotonic (test_hmm.TestHMM.test_em_monotonic) ... ok
+test_empirical_emissions (test_hmm.TestHMM.test_empirical_emissions) ... ok
+test_exact_enumeration (test_hmm.TestHMM.test_exact_enumeration) ... ok
+test_valid_parameters_and_seed (test_hmm.TestHMM.test_valid_parameters_and_seed) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.145s
+
+OK
